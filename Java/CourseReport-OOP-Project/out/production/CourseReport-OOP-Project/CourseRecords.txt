@@ -1,0 +1,20 @@
+Number: CSE 3100
+Name: Systems Programming
+Instructor: Sheppard, Kamil; 16155; 175,000; 1981; Professor of Computer Science
+Instructor: O'brien, Lilia; 23959; 110,000; 1990; Professor of Computer Science
+Instructor: Sheppard, Kamil; 16155; 175,000; 1981; Professor of Computer Science
+Staff: Abbott, Moshe; 64487; 20,000; 2013; 3
+Staff: Farley, Sana; 81387; 15,000; 2017; 2
+Staff: Barlow, Connor; 27849; 10,000; 2021; 1
+Staff: Mercado, Fletcher; 78038; 17,000; 2015; 2
+Staff: Chandler, Wesley; 14414; 10,000; 2021; 1
+Staff: Barlow, Connor; 27849; 10,000; 2021; 1
+Undergraduate: Valentine, Lelia; 30030; FRESHMAN
+Undergraduate: Ibarra, Jana; 77627; SENIOR
+Undergraduate: Syzmon, Marks; 36255; JUNIOR
+Undergraduate: Syzmon, Marks; 36255; JUNIOR
+Undergraduate: Asn, Peter; 56224; JUNIOR
+Undergraduate: Lucero, Kieron; 40343; SOPHOMORE
+Graduate: Bowers, Harry; 69498; MASTERS
+Graduate: Bowers, Harry; 69498; MASTERS
+Graduate: Cruz, Dennis; 73670; DOCTORAL
