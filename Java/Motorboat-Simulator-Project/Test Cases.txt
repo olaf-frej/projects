@@ -1,0 +1,136 @@
+Problem A:
+	Test Case 1:
+		100
+		20
+		10
+		0
+		50
+		10
+		y
+		30
+		5
+		n
+
+	Results:
+		Operating the motorboat
+
+		The boat is now operating.
+		Remaining Fuel: 50.0
+		Updated distance: 10.0
+
+	Test Case 2:
+		100
+		70
+		10
+		5
+		80
+		50
+		n
+		5
+		y
+		3
+
+	Results:
+		Operating the motorboat
+
+		The boat is now operating.
+		Remaining Fuel: 34.0
+		Updated distance: 65.0
+
+Problem B
+
+	Test Case 1:
+		Error Checking Parameters at different user inputs.
+
+		Enter the capacity of the fuel tank: 
+		75
+		Enter the amount of fuel in the tank: 
+		100
+		Please try again. Cannot have more fuel than: 75.0
+		-5
+		Please try again. Cannot operate with 0 gallons
+		54
+		Enter the maximum speed: 
+		125
+		Please try again. Maximum Motorboat Speed is 50 knots
+		35
+		Enter the current speed: 
+		18
+		Enter the efficiency (percentage): 
+		65
+		Enter the total distance traveled so far: 
+		5
+
+		Fuel Amount: 54.0
+		Would you like to add more fuel (y/n): 
+		y
+		How much fuel would you like to add: 
+		100
+		Please try again, cannot overfill fuel past: 75.0 gallons
+		12
+		Fuel Amount: 66.0
+		How long would you like to operate the boat (hours): 
+		5
+		Would you like to change the current speed of the boat (y/n): 
+		y
+		What is the new current speed of the motorboat: 
+		45
+		Please try again, cannot travel faster than maximum speed of: 35.0
+		5
+		The motorboat now has a current speed of 5.0
+
+		Operating the motorboat
+
+
+		Not enough fuel, cannot operate the motorboat
+
+		Remaining Fuel: 66.0
+		Updated distance: 5.0
+
+	Test Case 2:
+		Error Checking Parameters at different user inputs.
+
+		Enter the capacity of the fuel tank: 
+		-1
+		Please try again. Minimum Capacity: 0 gallons
+		0
+		Please try again. Minimum Capacity: 0 gallons
+		265
+		Please try again. Maximum Capacity: 250 gallons
+		200
+		Enter the amount of fuel in the tank: 
+		175
+		Enter the maximum speed: 
+		25
+		Enter the current speed: 
+		-1
+		Please try again. Cannot travel at 0 knots
+		15
+		Enter the efficiency (percentage): 
+		95
+		Enter the total distance traveled so far: 
+		10
+
+		Fuel Amount: 175.0
+		Would you like to add more fuel (y/n): 
+		y
+		How much fuel would you like to add: 
+		-1
+		Please try again. Cannot refuel 0 or less gallons
+		26
+		Please try again, cannot overfill fuel past: 200.0
+		25
+		Fuel Amount: 200.0
+		How long would you like to operate the boat (hours): 
+		10
+		Would you like to change the current speed of the boat (y/n): 
+		y
+		What is the new current speed of the motorboat: 
+		1
+		The motorboat now has a current speed of 1.0
+
+		Operating the motorboat
+
+		The boat is now operating.
+		Remaining Fuel: 190.5
+		Updated distance: 20.0
